@@ -56,8 +56,10 @@ $text-muted: #979797;
     <sys_translated_text action="delete_multiple" query="documentkey=b4c8d2e1094232007f44e1046c8ff652"/>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#d1222b</average_image_color>
+        <chunk_size_bytes/>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
         <image_height>78</image_height>
         <image_width>261</image_width>
